@@ -49,8 +49,8 @@ You can reach me via:
 ### Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=mari130803&theme=matrix&rank=S,AAA,B,C,A,AA,SS,SSS)](https://github.com/ryo-ma/github-profile-trophy)
  
- ### ABUTHAKIR'S github activity graph
-[![ABUTHAKIR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mari130803&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ ### MARIGANESH'S github activity graph
+[![MARIGANESH'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mari130803&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
