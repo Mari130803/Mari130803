@@ -1,7 +1,7 @@
 # 👋 Hi.. I'm  ✌Mr.MARIGANESH K..!✌
 
 FULL STACK DEVELOPER 
- <img align="right" width="370" height="290" src="https://tenor.com/view/developer-developers-developers-developers-developers-programming-typing-gif-25177948" />
+ <img align="right" width="370" height="290" src="https://tenor.com/bZEGh.gif" />
 
 
 
