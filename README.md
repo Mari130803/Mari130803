@@ -1,6 +1,6 @@
-# 👋 Hi.. I'm  ✌Mr.MARIGANESH K..!✌
+# <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> Hi.. I'm  ✌Mr.MARIGANESH K..!✌
 
-FULL STACK DEVELOPER 
+## FULL STACK DEVELOPER 
  <img align="right" width="370" height="290" src="https://tenor.com/view/code-programming-developer-gif-27048375.gif" />
 
 
@@ -48,6 +48,12 @@ You can reach me via:
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="60" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="60" width="60" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="60" height="60" src="https://img.icons8.com/fluency/48/000000/github.png" alt="github"/> <img width="60" height="60" src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="postman-api"/> <img width="60" height="60" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>  <img height="60" width="60" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="60" height="60" src="https://img.icons8.com/ios-filled/50/40C057/right-footprint.png" alt="right-footprint"/>  <img width="60" height="60" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> <img width="60" height="60" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 ### Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=mari130803&theme=matrix&rank=S,AAA,B,C,A,AA,SS,SSS&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari130803&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=radical)
+
+### Language Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari130803&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ### MARIGANESH'S github activity graph
 [![MARIGANESH'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mari130803&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
